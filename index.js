@@ -1,5 +1,5 @@
 const Btn = document.querySelector('#Btn');
 
 Btn.addEventListener('click',function () {
-    alert('Si tu quieres este abrazo virtual lo podemos hacer en fisico,y si encuentras algun error en el programa disculparasme, esque aun estoy aprendiendo :C jaja')
+    alert('Si tu quieres este abrazo virtual lo podemos hacer en fisico')
 });
